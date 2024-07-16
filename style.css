@@ -57,7 +57,7 @@
     font-size: 60px;
     font-weight: 550;
     width: auto;
-    border: red solid 2px
+    
 }
 
 .content{
@@ -66,7 +66,7 @@
     justify-content: right;
     margin-left: auto;
     width: 60%;
-    border: red solid 2px;
+
 }
 
 .summary, .contactInfo{
@@ -84,7 +84,6 @@
 
     width: 100%;
     margin: auto;
-    border: red 2px solid;
     padding: 10px;
 }
 
